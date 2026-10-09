@@ -91,11 +91,18 @@ An embedded automation system that mechanizes part of the traditional idiyappam 
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=athulkanil2003&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulkanil2003&layout=compact&langs_count=8&theme=transparent&title_color=58A6FF&text_color=8B949E&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=athulkanil2003&show_icons=true&include_all_commits=true&icon_color=0A6CFF&ring_color=0A6CFF&bg_color=0B0F19&title_color=0A6CFF&text_color=7D8FA3&hide_border=true" alt="GitHub stats" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=athulkanil2003&hide_border=true&background=0B0F19&ring=0A6CFF&fire=0A6CFF&currStreakNum=0A6CFF&sideNums=0A6CFF&currStreakLabel=0A6CFF&sideLabels=0A6CFF&dates=7D8FA3&stroke=3A4252" alt="Contribution streak" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulkanil2003&layout=compact&langs_count=8&bg_color=0B0F19&title_color=0A6CFF&text_color=7D8FA3&hide_border=true" alt="Most used languages" width="60%" />
 </p>
 
 ---
