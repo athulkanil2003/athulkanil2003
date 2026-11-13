@@ -99,15 +99,29 @@ Software Developer with a strong foundation in full-stack web development, backe
 
 ---
 
-## GitHub Activity
+## GitHub Activity & Stats
 
+<!-- Live GitHub Profile Badges -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/athulkanil2003?style=for-the-badge&logo=github&labelColor=0B0F19&color=0A6CFF" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/athulkanil2003?style=for-the-badge&logo=github&labelColor=0B0F19&color=0A6CFF" alt="GitHub Stars" />
 </p>
 
+<!-- Commits, Stars, PRs, Issues & Top Languages (Using the Verified Working Server) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=athulkanil2003&hide_border=true&background=0B0F19&ring=0A6CFF&fire=0A6CFF&currStreakNum=0A6CFF&sideNums=0A6CFF&currStreakLabel=0A6CFF&sideLabels=0A6CFF&dates=7D8FA3&stroke=3A4252" alt="Contribution Streak" width="75%" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=athulkanil2003&theme=github_dark" alt="GitHub Commit Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athulkanil2003&theme=github_dark" alt="Top Languages by Repo" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athulkanil2003&theme=github_dark" alt="Top Languages by Commit" />
+</p>
+
+<!-- Contribution Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=athulkanil2003&hide_border=true&background=0B0F19&ring=0A6CFF&fire=0A6CFF&currStreakNum=0A6CFF&sideNums=0A6CFF&currStreakLabel=0A6CFF&sideLabels=0A6CFF&dates=7D8FA3&stroke=3A4252" alt="Contribution Streak" width="78%" />
+</p>
+
+<!-- Full Contribution Graph & Account Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athulkanil2003&theme=github_dark" alt="GitHub Profile Details" width="78%" />
 </p>
 
 ---
