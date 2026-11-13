@@ -20,11 +20,28 @@
 
 ## About Me
 
-Software Developer with a foundation in full-stack web development, backend architecture, and embedded systems. I build scalable web applications and real-time systems using **Python**, **Java**, and **Flask**, backed by strong fundamentals in Data Structures, Algorithms, and relational databases.
+Software Developer with a strong foundation in full-stack web development, backend architecture, and embedded systems. I build scalable web applications and real-time systems using **Python**, **Java**, and **Flask**, backed by solid fundamentals in Data Structures, Algorithms, and relational databases.
 
-- **Current Role:** Software Development Intern at **KodNest**
-- **Previous Experience:** Embedded Systems Intern at **NeST Technologies** &nbsp;|&nbsp; Robotics Intern
-- **Core Focus:** RESTful API design, real-time WebSocket architectures, AI-integrated web applications, and hardware-software integration
+- **Current Focus:** Full-stack software development, RESTful API design, and real-time WebSocket architectures
+- **Background:** Bridging software engineering and hardware-level automation using Python, Java, and Embedded C
+- **Goal:** Seeking entry-level Software Engineer, Backend Developer, and Python/Java Developer roles
+
+---
+
+## Experience & Certifications
+
+### Professional Experience
+- **Software Development Intern** — *KodNest, Bengaluru* (Aug 2026 – Present)
+  - Full-stack web development, data structures & algorithms in Java and Python, and relational database design.
+- **Embedded Systems Intern** — *NeST Technologies* (May 2024 – Jun 2024)
+  - Worked on embedded firmware architecture, microcontroller interfacing, and hardware-software integration.
+- **Robotics Intern** — *Automation & Control Systems* (Jan 2024 – Mar 2024)
+  - Developed controller-based automation logic and sensor integration using C.
+
+### Certifications
+- **Introduction to Data Science** — *Infosys*
+- **Foundations of Project Management** — *Google*
+- **Introduction to Embedded Systems** — *NPTEL*
 
 ---
 
@@ -65,25 +82,5 @@ Software Developer with a foundation in full-stack web development, backend arch
 ### Automated Idiyappam Maker
 *Embedded electromechanical system for food-processing automation.*
 - Designed hardware-software control logic using C/Embedded C to automate traditional extrusion and pressing cycles.
-- Interfaced wiper motors with **IBT-2 motor drivers**, utilizing **Pulse-Width Modulation (PWM)** for precise speed/torque regulation and limit switches for positional safety cutoffs.
-- **Tech Stack:** `Embedded C` `Arduino` `IBT-2 Motor Driver` `PWM` `Limit Switches`
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=athulkanil2003&show_icons=true&icon_color=0A6CFF&ring_color=0A6CFF&bg_color=0B0F19&title_color=0A6CFF&text_color=7D8FA3&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulkanil2003&layout=compact&langs_count=6&bg_color=0B0F19&title_color=0A6CFF&text_color=7D8FA3&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br />
-  <img width="65%" src="https://streak-stats.demolab.com?user=athulkanil2003&hide_border=true&background=0B0F19&ring=0A6CFF&fire=0A6CFF&currStreakNum=0A6CFF&sideNums=0A6CFF&currStreakLabel=0A6CFF&sideLabels=0A6CFF&dates=7D8FA3&stroke=3A4252" alt="Contribution Streak" />
-</div>
-
----
-
-## Connect With Me
-
-Open to Software Engineer, Backend Developer, and Python/Java Developer roles. Feel free to reach out via [Email](mailto:athulkanil200331@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/athul-k-anil).
+- Interfaced high-torque wiper motors with **IBT-2 motor drivers**, utilizing **Pulse-Width Modulation (PWM)** for speed regulation and limit switches for positional safety cutoffs.
+- **Tech Stack:** `Embedded C` `Arduino`
