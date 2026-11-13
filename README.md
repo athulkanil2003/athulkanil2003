@@ -1,112 +1,89 @@
-<h1 align="center">Athul K Anil</h1>
+<div align="center">
+  <h1>Athul K Anil</h1>
+  <p><strong>Software Developer &nbsp;|&nbsp; Backend Engineering &nbsp;|&nbsp; Python &amp; Java</strong></p>
+  <p>B.Tech in Electronics &amp; Communication Engineering (Minor in CS) &nbsp;&middot;&nbsp; Bengaluru / Kerala, India</p>
 
-<p align="center">
-  Software Developer &nbsp;|&nbsp; Python &nbsp;|&nbsp; Java &nbsp;|&nbsp; Backend Development
-</p>
-
-<p align="center">
-  B.Tech in Electronics and Communication Engineering (2026) &nbsp;&middot;&nbsp; Kerala, India
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/athul-k-anil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:athulkanil200331@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/athulkanil2003"><img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+  <p>
+    <a href="https://linkedin.com/in/athul-k-anil">
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:athulkanil200331@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/athulkanil2003">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## About
+## About Me
 
-I am a 2026 graduate in Electronics and Communication Engineering with a Computer Science minor, focused on software development and backend engineering. My work sits at the intersection of software and hardware: I build web applications and APIs in Python and Java, and I bring an embedded systems background to problems that involve real devices.
+Software Developer with a foundation in full-stack web development, backend architecture, and embedded systems. I build scalable web applications and real-time systems using **Python**, **Java**, and **Flask**, backed by strong fundamentals in Data Structures, Algorithms, and relational databases.
 
-I am seeking entry-level roles in software development, backend engineering, Python and Java development, and embedded software.
-
-**Focus areas**
-
-- Backend development and REST API design
-- Real-time systems using WebSockets
-- AI-assisted application development
-- Embedded systems and hardware-software integration
+- **Current Role:** Software Development Intern at **KodNest**
+- **Previous Experience:** Embedded Systems Intern at **NeST Technologies** &nbsp;|&nbsp; Robotics Intern
+- **Core Focus:** RESTful API design, real-time WebSocket architectures, AI-integrated web applications, and hardware-software integration
 
 ---
 
 ## Technical Skills
 
-| Category | Technologies |
-| :-- | :-- |
-| **Languages** | Python, Java, C, Embedded C, JavaScript |
-| **Backend** | Flask, REST APIs, WebSockets |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Databases** | MySQL, SQLite, SQL |
-| **Fundamentals** | Data Structures and Algorithms, OOP, DBMS |
-| **Tools** | Git, GitHub, VS Code, Arduino, Proteus |
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, Java, C, Embedded C, JavaScript, SQL |
+| **Backend & Frameworks** | Flask, Flask-SocketIO, REST APIs, WebSockets |
+| **Frontend** | HTML5, CSS3, JavaScript (DOM, Fetch API) |
+| **Databases** | MySQL, SQLite |
+| **Core Concepts** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), DBMS |
+| **Developer & Hardware Tools** | Git, GitHub, VS Code, Arduino, Proteus, PWM Motor Control |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,flask,mysql,sqlite,git,github,vscode,arduino&theme=dark" alt="Technology stack" />
-</p>
-
----
-
-## Selected Projects
-
-### College Information Chatbot
-
-A web-based assistant that answers student queries on courses, admissions, departments, fees, and facilities.
-
-- Database-backed information retrieval over structured college data
-- Fuzzy matching and AI-assisted response handling
-- Browser-based chat interface
-
-`Python` `Flask` `SQLite` `JSON` `NLP`
-
-### Smart Lecture Notes and Real-Time Captioning
-
-A web application that synchronizes live captions with presentation slides to improve accessibility and automate note generation.
-
-- Real-time communication between client and server using WebSockets
-- Browser-based speech recognition for live transcription
-- Captions synchronized with slides, with notes organized per slide
-
-`Python` `Flask` `Flask-SocketIO` `JavaScript` `WebSockets`
-
-### Smart Idiyappam Maker
-
-An embedded automation system that mechanizes part of the traditional idiyappam preparation process.
-
-- Arduino microcontroller interfaced with a motor driver
-- Motor control logic and hardware-software integration
-
-`Arduino` `Embedded C` `Motor Drivers`
+<div align="center">
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,flask,mysql,sqlite,git,github,vscode,arduino&theme=dark" alt="Technology Stack" />
+</div>
 
 ---
 
-## Currently Developing
+## Featured Projects
 
-- Data Structures and Algorithms
-- Advanced Python and Java
-- Backend development and REST API design
-- Database design and SQL
-- Software engineering fundamentals
+### Smart Lecture Notes & Real-Time Captioning System
+*Real-time classroom accessibility and automated note-generation platform.*
+- Engineered a low-latency, bidirectional communication pipeline between client and server using **Flask-SocketIO** and **WebSockets**.
+- Integrated browser-based Speech Recognition to transcribe live audio streams and synchronize captions directly with active presentation slides.
+- Automated structured, slide-indexed note compilation for instant post-lecture review.
+- **Tech Stack:** `Python` `Flask` `Flask-SocketIO` `JavaScript` `WebSockets` `Speech Recognition`
 
----
+### AI-Powered College Information Chatbot
+*Interactive web assistant for automated student query resolution.*
+- Built a backend query engine serving structured institutional data covering admissions, courses, fee structures, and department facilities.
+- Implemented fuzzy string matching and NLP-assisted intent handling to resolve conversational queries accurately.
+- Designed a responsive browser chat interface backed by relational database storage.
+- **Tech Stack:** `Python` `Flask` `MySQL` `SQLite` `JavaScript` `NLP`
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athulkanil2003&show_icons=true&include_all_commits=true&icon_color=0A6CFF&ring_color=0A6CFF&bg_color=0B0F19&title_color=0A6CFF&text_color=7D8FA3&hide_border=true" alt="GitHub stats" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=athulkanil2003&hide_border=true&background=0B0F19&ring=0A6CFF&fire=0A6CFF&currStreakNum=0A6CFF&sideNums=0A6CFF&currStreakLabel=0A6CFF&sideLabels=0A6CFF&dates=7D8FA3&stroke=3A4252" alt="Contribution streak" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulkanil2003&layout=compact&langs_count=8&bg_color=0B0F19&title_color=0A6CFF&text_color=7D8FA3&hide_border=true" alt="Most used languages" width="60%" />
-</p>
+### Automated Idiyappam Maker
+*Embedded electromechanical system for food-processing automation.*
+- Designed hardware-software control logic using C/Embedded C to automate traditional extrusion and pressing cycles.
+- Interfaced wiper motors with **IBT-2 motor drivers**, utilizing **Pulse-Width Modulation (PWM)** for precise speed/torque regulation and limit switches for positional safety cutoffs.
+- **Tech Stack:** `Embedded C` `Arduino` `IBT-2 Motor Driver` `PWM` `Limit Switches`
 
 ---
 
-## Contact
+## GitHub Activity
 
-For opportunities or collaboration, reach me at [athulkanil200331@gmail.com](mailto:athulkanil200331@gmail.com) or on [LinkedIn](https://linkedin.com/in/athul-k-anil).
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=athulkanil2003&show_icons=true&icon_color=0A6CFF&ring_color=0A6CFF&bg_color=0B0F19&title_color=0A6CFF&text_color=7D8FA3&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulkanil2003&layout=compact&langs_count=6&bg_color=0B0F19&title_color=0A6CFF&text_color=7D8FA3&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br />
+  <img width="65%" src="https://streak-stats.demolab.com?user=athulkanil2003&hide_border=true&background=0B0F19&ring=0A6CFF&fire=0A6CFF&currStreakNum=0A6CFF&sideNums=0A6CFF&currStreakLabel=0A6CFF&sideLabels=0A6CFF&dates=7D8FA3&stroke=3A4252" alt="Contribution Streak" />
+</div>
+
+---
+
+## Connect With Me
+
+Open to Software Engineer, Backend Developer, and Python/Java Developer roles. Feel free to reach out via [Email](mailto:athulkanil200331@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/athul-k-anil).
